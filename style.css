@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: green;
+}
+p{
+    font-size: 40px;
+    color: azure;
+}
+body{
+    background-image: url(/images/death.jpg);
+}
